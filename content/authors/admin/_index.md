@@ -12,11 +12,12 @@ email: "kelly.kapsar@gmail.com"
 highlight_name: true
 interests:
 - Spatial Ecology
+- Wildlife Conservation
 - Social-Ecological Systems
 - Quantitative Data Analysis
 organizations:
 - name: Michigan State University
-  url: https://www.https://www.canr.msu.edu/csis/
+  url: https://www.canr.msu.edu/csis/
 role: Postdoctoral Research Associate
 social:
 - icon: envelope
@@ -40,4 +41,4 @@ title: Kelly Kapsar
 
 I am an interdisciplinary environmental scientist focused on solutions-driven approaches to conservation challenges in coupled human and natural systems. Through her research, she uses spatial data analysis and statistics to better understand human-wildlife interactions across scales of space and time. Her research interests also include community-engagement, knowledge integration, and reproducible research. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/KapsarCV_202206.pdf" "newtab" >}}CV{{< /staticref >}}.
