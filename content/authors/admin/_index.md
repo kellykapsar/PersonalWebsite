@@ -1,49 +1,43 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I am an interdisciplinary environmental scientists working to promote human-wildlife coexistence in complex social-ecological systems.   
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in Fisheries & Wildlife
+    institution: Michigan State University
+    year: 2022
+  - course: BA in Biology
+    institution: Carleton College
+    year: 2014
+email: "kelly.kapsar@gmail.com"
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Spatial Ecology
+- Social-Ecological Systems
+- Quantitative Data Analysis
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Michigan State University
+  url: https://www.https://www.canr.msu.edu/csis/
+role: Postdoctoral Research Associate
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/KellyKapsar
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=atrvd1AAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/kellykapsar
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/kelly-kapsar-a1a2598b/
 superuser: true
-title: Nelson Bighetti
+title: Kelly Kapsar
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an interdisciplinary environmental scientist focused on solutions-driven approaches to conservation challenges in coupled human and natural systems. Through her research, she uses spatial data analysis and statistics to better understand human-wildlife interactions across scales of space and time. Her research interests also include community-engagement, knowledge integration, and reproducible research. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
