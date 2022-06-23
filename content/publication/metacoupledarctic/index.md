@@ -12,10 +12,10 @@ image:
   caption: 'Image credit: [**Hubert Neufeld**](https://unsplash.com/photos/GG1CwF4qdlg)'
   focal_point: ""
   preview_only: false
-publication: In *Ambio A Journal of Humans and the Environment*
+publication: In *Ambio: A Journal of Humans and the Environment*
 publication_short: In *Ambio*
 publication_types:
-- "1"
+- "2"
 publishDate: "2017-01-01T00:00:00Z"
 <!--- summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. --->
