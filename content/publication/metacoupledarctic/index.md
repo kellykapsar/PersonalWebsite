@@ -6,20 +6,17 @@ authors:
 - Lawson W. Brigham
 - Jianguo Liu
 date: "2022-03-30T00:00:00Z"
-doi: ""
+doi: "10.1007/s13280"
 featured: true
 image:
   caption: 'Image credit: [**Hubert Neufeld**](https://unsplash.com/photos/GG1CwF4qdlg)'
   focal_point: ""
   preview_only: false
-projects:
-- example
 publication: In *Ambio A Journal of Humans and the Environment*
 publication_short: In *Ambio*
 publication_types:
 - "1"
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
 <!--- summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. --->
 tags: []
