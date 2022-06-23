@@ -14,24 +14,18 @@ image:
   preview_only: false
 projects:
 - example
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Ambio A Journal of Humans and the Environment*
+publication_short: In *Ambio*
 publication_types:
 - "1"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+<!--- summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
+  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. --->
 tags: []
 title: 'The metacoupled Arctic: Human-nature interactions across local to global scales as drivers of sustainability'
-url_code: ""
-url_dataset: ""
-url_pdf: "https://link.springer.com/article/10.1007/s13280-022-01729-9"
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+url_pdf: https://link.springer.com/article/10.1007/s13280-022-01729-9
+
 ---
 
 <!---  {{% callout note %}}
