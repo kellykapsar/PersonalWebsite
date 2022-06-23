@@ -12,7 +12,7 @@ image:
   caption: 'Image credit: [**Hubert Neufeld**](https://unsplash.com/photos/GG1CwF4qdlg)'
   focal_point: ""
   preview_only: false
-publication: In *Ambio: A Journal of Humans and the Environment*
+publication: In *Ambio A Journal of Humans and the Environment*
 publication_short: In *Ambio*
 publication_types:
 - "2"
