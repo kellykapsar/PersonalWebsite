@@ -2,6 +2,7 @@
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
+active: true
 
 # This file represents a page section.
 headless: true
@@ -22,28 +23,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Postdoctoral Research Associate
+    company: Michigan State University, Department of Fisheries & Wildlife, Center for Systems Integration & Sustainability
+    company_url: 'https://www.canr.msu.edu/csis/'
+    company_logo: msu-logo
+    location: Remote
+    date_start: '2022-06-06'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Research Focus:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Spatiotemporal Analysis of Arctic Vessel Traffic 
+        * Modeling Vessel-Marine Mammal Interactions
+        * Community Engagement and Outreach 
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research Associate
+    company: Saint Louis Zoo, Arctic Socio-Environmental Initiative WildCare Program
+    company_url: stlzoo.org/alaska'
+    company_logo: zoo-logo
+    location: Remote
+    date_start: '2016-09-01'
+    date_end: ''
+    description: 
 
 design:
   columns: '2'
