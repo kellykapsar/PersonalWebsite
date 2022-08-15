@@ -1,5 +1,5 @@
 ---
-bio: I am an interdisciplinary environmental scientists working to promote human-wildlife coexistence in complex social-ecological systems.   
+bio: I am an interdisciplinary environmental scientist working to promote human-wildlife coexistence in complex social-ecological systems.   
 education:
   courses:
   - course: PhD in Fisheries & Wildlife
