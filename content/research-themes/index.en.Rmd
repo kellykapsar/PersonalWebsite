@@ -1,0 +1,40 @@
+---
+title: Research Themes
+author: Kelly Kapsar
+date: '2022-08-24'
+slug: research-themes
+categories: []
+tags:
+  - Coupled human and natural systems
+  - Telecoupling
+  - Human-wildlife coexistence
+  - Community engagement
+  - Open science and reproducible research
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-08-24T16:34:25-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+### Telecoupled human and natural systems
+
+In an increasingly globalized world, very few places are truly isolated. Global markets, geopolitical tension, foreign investment, migration, climate change. In many of these situations, the origin of a phenomena is far away from the place where the impacts are felt. For example, a disproportionate amount of historical carbon emissions have originated in the United States. And yet the worst effects of climate change are felt in distant locations. These distant flows of materials, energy, and information are called telecouplings. My research seeks to understand how these telecouplings affect the sustainability of human communities, natural systems, and the human-nature interactions that tie them together. 
+
+### Human-wildlife coexistence
+
+I am passionate about working towards a planet where humans can coexist with sustainable populations of wildlife. One way to promote this coexistence is to look at places where humans and wildlife overlap. By examining the nature of interactions between humans and wildlife (e.g., competition, conflict), we can learn which human activities promote or deter coexistence. In particular, I am interested in the role that scale in these processes. For instance, a predator species may have a high degree of spatial overlap with humans, but only travel into human-inhabited areas at night when human activities are limited. 
+
+### Community engagement
+
+Human communities living alongside wildlife are often the most affected by conservation actions and also often left out of the conservation decision-making process. At the same time, community members are commonly in the best position to evaluate on-the-ground changes in environmental conditions and wildlife populations. Through my research I seek to work collaboratively with communities to identify and advocate for sustainable solutions to complex challenges that will minimize environmental impact while maintaining or improving human well-being. 
+
+### Open science 
+
+Reproducibility is a critical aspect of scientific inquiry. By sharing data and code to to the greatest extent possible as well as publishing my articles open access, I seek to increase the reproducibility of my research and foster discussions of the rationale behind the many decisions that go into any large-scale analysis. In addition, I hope to use my blog as a way to peek behind the curtain to see the logic that goes into the decisions that I make. 
+
