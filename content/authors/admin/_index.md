@@ -11,10 +11,10 @@ education:
 email: "kelly.kapsar@gmail.com"
 highlight_name: true
 interests:
-- Spatial Ecology
+- Spatial Data Analysis
 - Wildlife Conservation
 - Social-Ecological Systems
-- Quantitative Data Analysis
+- Big Data & Reproducible Research
 organizations:
 - name: Michigan State University
   url: https://www.canr.msu.edu/csis/
