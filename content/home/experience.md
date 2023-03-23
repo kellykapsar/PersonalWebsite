@@ -39,7 +39,7 @@ experience:
 
   - title: Research Associate
     company: Saint Louis Zoo, Arctic Socio-Environmental Initiative WildCare Program
-    company_url: stlzoo.org/alaska'
+    company_url: 'stlzoo.org/alaska'
     company_logo: zoo-logo
     location: Remote
     date_start: '2016-09-01'
