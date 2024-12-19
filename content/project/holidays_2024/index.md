@@ -1,8 +1,6 @@
 ---
 date: "19 December 2024"
 external_link: ""
-header: 
-  image: "/holidays_2024/data_driven_christmas.webp"
 image:
   caption: Photo by chatGPT
   focal_point: Smart
@@ -19,7 +17,7 @@ url_video: ""
 <span style="font-size: 24px;">"Data Flows"</span>  
 (To the tune of "Jingle Bells")
 
-<img src="data_driven_christmas.webp" alt="" style="width: 300px; height: auto;">
+<img src="feagured.webp" alt="" style="width: 300px; height: auto;">
 
 
 
