@@ -4,6 +4,7 @@ external_link: ""
 image:
   caption: Photo by chatGPT
   focal_point: Smart
+  style: "width: 300px; height: auto;"
 summary: I asked chatGPT to write a carol about my research for you.
 title: Happy Holidays 2024
 url_code: ""
@@ -16,10 +17,6 @@ url_video: ""
 
 <span style="font-size: 24px;">"Data Flows"</span>  
 (To the tune of "Jingle Bells")
-
-<img src="featured.webp" alt="" style="width: 300px; height: auto;">
-
-
 
 **Verse 1**  
 Dashing through the ice,  
