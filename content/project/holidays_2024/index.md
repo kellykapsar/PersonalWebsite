@@ -17,7 +17,7 @@ url_video: ""
 <span style="font-size: 24px;">"Data Flows"</span>  
 (To the tune of "Jingle Bells")
 
-<img src="feagured.webp" alt="" style="width: 300px; height: auto;">
+<img src="featured.webp" alt="" style="width: 300px; height: auto;">
 
 
 
