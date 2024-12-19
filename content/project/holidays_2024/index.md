@@ -1,5 +1,5 @@
 ---
-date: "19 December 2024"
+date: "December 19, 2024"
 external_link: ""
 image:
   caption: Photo by chatGPT
