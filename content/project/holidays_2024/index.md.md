@@ -4,11 +4,10 @@ external_link: ""
 image:
   caption: Photo by chatGPT
   focal_point: Smart
-slides: example
-summary: An example of using the in-built project page.
+summary: I asked chatGPT to write a carol about my research for you.
 tags:
 - Deep Learning
-title: I asked chatGPT to write a carol about my research (Happy Holidays 2024)
+title: Happy Holidays 2024
 url_code: ""
 url_pdf: ""
 url_slides: ""
