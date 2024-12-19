@@ -1,12 +1,12 @@
 ---
 date: "19 December 2024"
 external_link: ""
+header: 
+  image: "/holidays_2024/data_driven_christmas.webp"
 image:
   caption: Photo by chatGPT
   focal_point: Smart
 summary: I asked chatGPT to write a carol about my research for you.
-tags:
-- Deep Learning
 title: Happy Holidays 2024
 url_code: ""
 url_pdf: ""
